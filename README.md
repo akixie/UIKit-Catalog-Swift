@@ -1,3 +1,14 @@
+
+![图片预览]
+(https://raw.githubusercontent.com/akixie/UIKit-Catalog-/master/previews.gif)
+
+#对快速适应swift有很大帮助。
+
+#学习过程中如果你喜欢的话，可以Star收藏便于后用
+
+代码来自苹果官方开发网站
+
+
 # UIKit Catalog (iOS): Creating and Customizing UIKit Controls (Obj-C and Swift)
 
 This sample demonstrates how to use many views and controls in the UIKit framework along with their assorted functionalities. Refer to this sample if you are looking for specific controls or views that are provided by the system.
