@@ -20,8 +20,6 @@ iOS 9.0 or later
 
 ## UIKit Controls That Are Covered
 
-This sample demonstrates how to configure and customize the following controls / controllers:
-
 + UIActivityIndicatorView
 + UIAlertController
 + UIButton
