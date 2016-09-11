@@ -6,11 +6,9 @@
 
 #学习过程中如果你喜欢的话，可以Star收藏便于后用
 
-## Build Requirements
+## 环境要求
 
 Xcode 7.3 and iOS 9.0 SDK or later
-
-## Runtime Requirements
 
 iOS 9.0 or later
 
@@ -18,7 +16,7 @@ iOS 9.0 or later
 
 
 
-## UIKit Controls That Are Covered
+## 覆盖以下UI控件写法 UIKit Controls 
 
 + UIActivityIndicatorView
 + UIAlertController
