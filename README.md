@@ -6,11 +6,15 @@
 
 #学习过程中如果你喜欢的话，可以Star收藏便于后用
 
+# Updated to Swift 2.3. -2016.09.12
+
+
 ## 环境要求
 
-Xcode 7.3 and iOS 9.0 SDK or later
+xcode8 and ios10 sdk or later.
 
-iOS 9.0 or later
+> 旧版本swift2.2,xcode7请到release中去下载
+Xcode 7.3 and iOS 9.0 SDK or later
 
 ## Written in Objective-C and Swift
 
