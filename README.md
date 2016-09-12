@@ -9,7 +9,7 @@
 # Updated to Swift 2.3. -2016.09.12
 
 
-## 最新版本编译要求
+## 编译要求
 
 Xcode 8 and iOS 10.0 SDK or later
 
