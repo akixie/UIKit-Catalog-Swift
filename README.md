@@ -13,7 +13,8 @@
 
 xcode8 and ios10 sdk or later.
 
-> 旧版本swift2.2,xcode7请到release中去下载
+> 旧版本swift2.2,xcode7.x请到release中去下载.
+
 Xcode 7.3 and iOS 9.0 SDK or later
 
 ## Written in Objective-C and Swift
