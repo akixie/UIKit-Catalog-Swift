@@ -1,10 +1,5 @@
 
-![图片预览]
-(https://raw.githubusercontent.com/akixie/UIKit-Catalog-/master/previews.gif)
 
-#对快速适应swift有很大帮助。
-
-#学习过程中如果你喜欢的话，可以Star收藏便于后用
 
 # Updated to Swift 2.3. -2016.09.12
 
