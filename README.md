@@ -1,7 +1,7 @@
 
 
 
-# Updated to Swift 2.3. -2016.09.12
+# Updated to Swift 2.3. 
 
 
 ## 编译要求
